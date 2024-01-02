@@ -1,6 +1,6 @@
 # WeatherApp 
 
-# 🛠 Стэк технологий:
+# 🛠 Technologies stack:
 Frontend:
 • React
 • TypeScript
