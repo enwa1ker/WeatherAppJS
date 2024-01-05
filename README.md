@@ -8,7 +8,7 @@ Frontend:
 • Scss / Scss-module
 
 Backend:
-• API погоды open weather api
+• API open weather api
 
 ## Getting Started
 
