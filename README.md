@@ -3,12 +3,13 @@
 # 🛠 Technologies stack:
 Frontend:
 • React
+• Vite
 • TypeScript
 • Redux-thunk / Redux-Toolkit
 • Scss / Scss-module
 
 Backend:
-• API погоды open weather api
+• API open weather api
 
 ## Getting Started
 
@@ -17,7 +18,7 @@ Backend:
 List any software, tools, or dependencies that need to be installed before setting up your project. For example:
 
 - Node.js
-- npm or yarn
+- npm
 
 ### Installation
 
@@ -41,4 +42,4 @@ git clone
 Running the development server:
 
 - npm run dev
-- yarn dev
+
